@@ -1,13 +1,6 @@
 # 🎬 MoodFlix  
 ### _A Mood-Based Movie Recommender System (CLI – Powered by IMDb & Machine Learning)_
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Content--Based-yellow" />
-  <img src="https://img.shields.io/badge/IMDb-Dataset-orange?logo=imdb" />
-  <img src="https://img.shields.io/badge/Platform-CLI-lightgrey?logo=terminal" />
-</p>
-
 ---
 
 ## 🌟 Overview
