@@ -1,5 +1,5 @@
 # 🎬 MoodFlix  
-### _A Mood-Based Movie Recommender System (CLI – Powered by IMDb & Machine Learning)_
+### _A Mood-Based Movie Recommender System_
 
 ---
 
