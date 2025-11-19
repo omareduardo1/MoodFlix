@@ -1,0 +1,17 @@
+# Dati IMDb grezzi e derivati
+data/raw/
+data/movies.csv
+
+# File temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# File di sistema macOS
+.DS_Store
